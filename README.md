@@ -14,11 +14,11 @@ Create several Fraction objects and perform conversion, reversion and division o
 
 Your TicketMachine class will have the following methods:
 
-insertMoney, which receives an amount of money from a customer and updates customer's balance (you can use balance variable).
-getPrice, which return and prints the price of a ticket.
-getBalance, which returns and prints the amount of money already inserted for the ticket.
-printTicket, which prints a ticket, update the total collected by the machine and reduce the balance to zero.
-The ticket will be printed if the customer's balance is greater than or equal to ticket price. You also need to define a variable e.g., total, which keeps track of the total amount of money collected by the machine.
+-insertMoney, which receives an amount of money from a customer and updates customer's balance (you can use balance variable).
+-getPrice, which return and prints the price of a ticket.
+-getBalance, which returns and prints the amount of money already inserted for the ticket.
+-printTicket, which prints a ticket, update the total collected by the machine and reduce the balance to zero.
+-The ticket will be printed if the customer's balance is greater than or equal to ticket price. You also need to define a variable e.g., total, which keeps track of the total amount of money collected by the machine.
 
 Your program should be able to check if the ticket price and the amount entered by the customer is valid. For example, ticket price and the amount entered by the user cannot be negative.
 
